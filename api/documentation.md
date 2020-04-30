@@ -15,12 +15,12 @@ Returns json data about all todos
       "data": [
 			{
 		      "id": "1",
-		      "name": "Todo id2",
+		      "name": "Todo id1",
 		      "desc": "Desc Todo ID 1",
 		      "is_finished": "1"
 	      },
 	      {
-	      "id": "3",
+	      "id": "2",
 	      "name": "Todo id2",
 	      "desc": "Desc Todo ID 2",
 	      "is_finished": "0"
